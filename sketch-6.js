@@ -1,3 +1,4 @@
+background(255)
 var x = 0
 var y = 0
 while(x<=width) {
