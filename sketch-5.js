@@ -1,3 +1,4 @@
+background(255)
 var x1 = 169
 var x2 = 171
 var y = 0
