@@ -1,3 +1,4 @@
+background(255)
 stroke(0)
 strokeWeight(1)
 
