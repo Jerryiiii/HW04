@@ -1,5 +1,5 @@
 background(240)
-strokeWeight(0.5)
+strokeWeight(0.1)
 line (0,7*height/8,7*width/8,0)
 line (0,7*height/8+height/2,7*width/8+ width/2,0)           
 line(width/4,0,width/4,height)
